@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/cogitocove
+    username: root
+    password: pass
+  security:
+    user:
+      name: root
+      password: pass
